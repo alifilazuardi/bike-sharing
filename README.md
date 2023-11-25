@@ -20,6 +20,7 @@ Bike Sharing Dataset [(Link Download)](https://www.kaggle.com/datasets/lakshmi25
 1. Clone repository ke komputer lokal anda menggunakan perintah berikut:
 
    ```shell
+   git colone https://github.com/alifilazuardi/bike-sharing.git
    ```
 2. Lakukan Instalasi Kaggle dan Konfigurasi Kaggle Api:
    dengan cara sebagai berikut :
@@ -39,4 +40,4 @@ Bike Sharing Dataset [(Link Download)](https://www.kaggle.com/datasets/lakshmi25
     streamlit run main.py
     ```
 2. Link dashboard online:
-   [Bike Sharing]
+   [Bike Sharing] https://bike-sharing-analysis-dashboard.streamlit.app
